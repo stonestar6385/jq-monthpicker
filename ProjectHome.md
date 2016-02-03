@@ -1,0 +1,1 @@
+A hijack to force the default jquery-ui-datepicker to switch in years and select months instead of picking days of months.
